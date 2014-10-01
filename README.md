@@ -1,5 +1,4 @@
-Plataforma Cursos
+Concerts
 ================
 
-La aplicacion web que queremos plantear y desarrollar, es una plataforma donde poder ofrecer cursos a nivel personal y por localidades. Donde transladar los tipicos anuncios en carteles que se encuentran por la calle, a la nube.
-Los usuarios crean y/o se apuntan a cursos o clases particulares.
+La aplicacion web que queremos plantear y desarrollar, es una plataforma donde se ofrece información sobre conciertos. Los usuarios podrán hacer consultas respecto a Artistas o Localidades, y también podrán seguir la información que les interese.
