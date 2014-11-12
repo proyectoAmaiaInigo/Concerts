@@ -6,3 +6,7 @@ La aplicacion web que queremos plantear y desarrollar, es una plataforma donde s
 HEROKU:
 
 http://bandate.herokuapp.com/
+
+OPENSHIFT:
+
+http://bandate-bandate.rhcloud.com
